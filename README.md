@@ -1,2 +1,2 @@
 # willabbi
-weather.willab.fi reader and android widget
+weather.willab.fi/weather.html reader and android widget
